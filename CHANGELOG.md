@@ -1,10 +1,6 @@
-<img width="300px" src="https://github.com/rafinskipg/git-changelog/raw/master/images/git-changelog-logo.png" />
+# Changelog
 
-# Git Changelog
-
-_Git changelog is a utility tool for generating changelogs. It is free and opensource. :)_
-
-## v1.0.0  ( Mon Apr 05 2021 11:52:09 GMT+0700 (Indochina Time) )
+## v1.0.0  ( Thu Apr 08 2021 11:55:00 GMT+0700 (Indochina Time) )
 
 
 ## Features
@@ -13,7 +9,13 @@ _Git changelog is a utility tool for generating changelogs. It is free and opens
 
 
 
+## Chore
+
+  - **config**
+    - add change log config [56c98f4c](https://github.com:tungnt92/repo-with-wrong-code/commit/56c98f4c6ebddd8bed8f6a9fe4fa5f34f16f32fc)
+
+
+
 
 
 ---
-<sub><sup>*Generated with [git-changelog](https://github.com/rafinskipg/git-changelog). If you have any problems or suggestions, create an issue.* :) **Thanks** </sub></sup>

@@ -1,5 +1,5 @@
-<% if(logo) { %><img width="300px" src="<%= logo %>" /><%= '\n\n' %><% } %># <%= title %>
-<% if(intro) { %><%= '\n' %>_<%= intro %>_<%= '\n' %><% } %>
+# Changelog
+
 <% if(version && (version.name || version.number)) { %>##<% if(version.name){%> <%= version.name %><% } %> <%= version.number %> <% if(version.date){ %>( <%= version.date %> )<% } %><%= '\n' %><% } %>
 <% _.forEach(sections, function(section){
 if(section.commitsCount > 0) { %>
@@ -12,4 +12,3 @@ if(section.commitsCount > 0) { %>
 <% }) %>
 
 ---
-<sub><sup>*Generated with [git-changelog](https://github.com/rafinskipg/git-changelog). If you have any problems or suggestions, create an issue.* :) **Thanks** </sub></sup>
