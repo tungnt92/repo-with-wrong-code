@@ -1,18 +1,10 @@
 # Changelog
 
-## v1.0.0  ( Thu Apr 08 2021 11:55:00 GMT+0700 (Indochina Time) )
+## v1.0.0  ( Thu Apr 08 2021 14:02:11 GMT+0700 (Indochina Time) )
 
 
-## Features
-  - init index html with wrong format [0e037597](https://github.com:tungnt92/repo-with-wrong-code/commit/0e037597e10558ade17b326697e4c34475fdedc2)
-
-
-
-
-## Chore
-
-  - **config**
-    - add change log config [56c98f4c](https://github.com:tungnt92/repo-with-wrong-code/commit/56c98f4c6ebddd8bed8f6a9fe4fa5f34f16f32fc)
+## Documentation
+  - update change log [dd9d2428](https://github.com:tungnt92/repo-with-wrong-code/commit/dd9d24285793b1ae0d21acc9a01837387da51f4f)
 
 
 
